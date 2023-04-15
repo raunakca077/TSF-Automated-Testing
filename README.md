@@ -18,6 +18,7 @@ elements in total.
 bar appears, the name on about us page is correct, etc.
 
 #Technologies used :
+
 Language - Java
 Ide - IntelliJ
 Testing suite - Selemnium

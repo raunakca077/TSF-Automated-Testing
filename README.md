@@ -20,9 +20,12 @@ bar appears, the name on about us page is correct, etc.
 # Technologies used :
 
 Language - Java
+
 Ide - IntelliJ
+
 Testing suite - Selemnium
-Web driver - Chrome
+
+Web Browser - Chrome
 
 # What is selenium and why it is used?
 

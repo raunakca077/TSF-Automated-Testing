@@ -20,7 +20,7 @@ Language - Java
 
 Ide - IntelliJ
 
-Testing suite - Selemnium
+Testing suite - Selenium
 
 Web Browser - Chrome
 

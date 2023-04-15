@@ -5,9 +5,6 @@ This project is done by me as a Web Development  intern at The Spark Foundation.
 
 ◇ Learn selenium and basic selenium automation scripting.
 
-◇ Start with Google Search and read tutorials. Watch videos to
-learn about various aspects of testing using selenium.
-
 ◇ Use selenium to create a test case to test the website
 thesparksfoundation.sg
 
